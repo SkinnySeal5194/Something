@@ -1,0 +1,15 @@
+/Users/rikesharyal/Projects/Level2/Level2/obj/Debug/net7.0/Level2.csproj.AssemblyReference.cache
+/Users/rikesharyal/Projects/Level2/Level2/obj/Debug/net7.0/Level2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rikesharyal/Projects/Level2/Level2/obj/Debug/net7.0/Level2.AssemblyInfoInputs.cache
+/Users/rikesharyal/Projects/Level2/Level2/obj/Debug/net7.0/Level2.AssemblyInfo.cs
+/Users/rikesharyal/Projects/Level2/Level2/obj/Debug/net7.0/Level2.csproj.CoreCompileInputs.cache
+/Users/rikesharyal/Projects/Level2/Level2/bin/Debug/net7.0/Level2
+/Users/rikesharyal/Projects/Level2/Level2/bin/Debug/net7.0/Level2.deps.json
+/Users/rikesharyal/Projects/Level2/Level2/bin/Debug/net7.0/Level2.runtimeconfig.json
+/Users/rikesharyal/Projects/Level2/Level2/bin/Debug/net7.0/Level2.dll
+/Users/rikesharyal/Projects/Level2/Level2/bin/Debug/net7.0/Level2.pdb
+/Users/rikesharyal/Projects/Level2/Level2/obj/Debug/net7.0/Level2.dll
+/Users/rikesharyal/Projects/Level2/Level2/obj/Debug/net7.0/refint/Level2.dll
+/Users/rikesharyal/Projects/Level2/Level2/obj/Debug/net7.0/Level2.pdb
+/Users/rikesharyal/Projects/Level2/Level2/obj/Debug/net7.0/Level2.genruntimeconfig.cache
+/Users/rikesharyal/Projects/Level2/Level2/obj/Debug/net7.0/ref/Level2.dll
